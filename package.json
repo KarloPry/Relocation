@@ -1,0 +1,25 @@
+{
+  "name": "relocation",
+  "version": "1.0.0",
+  "description": "Redirecting to web pages",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karlo Paz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarloPry/RelocationWebPage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KarloPry/RelocationWebPage/issues"
+  },
+  "homepage": "https://github.com/KarloPry/RelocationWebPage#readme"
+}
